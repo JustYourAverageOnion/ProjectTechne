@@ -3,3 +3,6 @@ Random CSS Illustrations inspired from either Dribbble or MS Clip art done in co
 
 ## Single Div Experiments
   - [Smile](https://justyouraverageonion.github.io/ProjectTechne/01-single-div/01-smile.html)
+
+## Emoji
+  - [Cute Smile](https://justyouraverageonion.github.io/ProjectTechne/02-emoji/01-cute-smile.html)
